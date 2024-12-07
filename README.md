@@ -2,7 +2,8 @@
 
 ## 简介
 
-《C++ Primer 中文版（第 5 版）》学习仓库副本，包括**笔记**和**课后练习答案**。感谢原作者的贡献(applenob/Cpp_Primer_Practice)
+《C++ Primer 中文版（第 5 版）》学习仓库副本，包括**笔记**和**课后练习答案**。感谢原作者的贡献<https://github.com/applenob/Cpp_Primer_Practice>
+
 
 ## 环境
 
